@@ -1,0 +1,13 @@
+#profile-picture {
+  border: 2px solid black;
+  border-radius: 8px;
+}
+
+#links {
+  margin-top: 20px;
+}
+
+a {
+  display: block;
+  margin-bottom: 10px;
+}
